@@ -5,5 +5,11 @@ int main(){
     printf("\n");
     printf("Welcome");
     printf("\n");
+    printf("Welcome");
+    printf("\n");
+    printf("Welcome");
+    printf("\n");
+    system("pause");
+    printf("\n");
     system("pause");
 }
